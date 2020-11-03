@@ -1,4 +1,4 @@
-# [📈 Live Status](https://cleverclip.github.io/status/): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://cleverclip.github.io/status/): <!--live status--> **🟥 Complete outage**
 
 This repository contains the open-source uptime monitor and status page for [Cleverclip](https://cleverclipstudios.com), powered by [Upptime](https://github.com/upptime/upptime).
 
@@ -11,9 +11,11 @@ This repository contains the open-source uptime monitor and status page for [Cle
 With [Upptime](https://upptime.js.org), you can get your own unlimited and free uptime monitor and status page, powered entirely by a GitHub repository. We use [Issues](https://github.com/Cleverclip/status/issues) as incident reports, [Actions](https://github.com/Cleverclip/status/actions) as uptime monitors, and [Pages](https://demo.upptime.js.org) for the status page.
 
 <!--start: status pages-->
-| URL | Status | History | Response Time | Uptime |
-| --- | ------ | ------- | ------------- | ------ |
-| [Cleverclip](https://cleverclipstudios.com) | 🟩 Up | [cleverclip.yml](https://github.com/Cleverclip/status/commits/master/history/cleverclip.yml) | <img alt="Response time graph" src="./graphs/cleverclip.png" height="20"> 200ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FCleverclip%2Fstatus%2Fmaster%2Fapi%2Fcleverclip%2Fuptime.json)
+
+| URL                                         | Status  | History                                                                                      | Response Time                                                                   | Uptime                                                                                                                                                         |
+| ------------------------------------------- | ------- | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Cleverclip](https://cleverclipstudios.com) | 🟥 Down | [cleverclip.yml](https://github.com/Cleverclip/status/commits/master/history/cleverclip.yml) | <img alt="Response time graph" src="./graphs/cleverclip.png" height="20"> 166ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FCleverclip%2Fstatus%2Fmaster%2Fapi%2Fcleverclip%2Fuptime.json) |
+
 <!--end: status pages-->
 
 [**Visit our status website →**](https://demo.upptime.js.org)
