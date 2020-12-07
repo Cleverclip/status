@@ -2,6 +2,7 @@
   {
     "name": "Cleverclip",
     "url": "https://cleverclipstudios.com",
+    "icon": "https://favicons.githubusercontent.com/cleverclipstudios.com",
     "slug": "cleverclip",
     "status": "up",
     "uptime": "99.98%",
@@ -9,10 +10,15 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.98%",
-    "time": 397,
-    "timeDay": 190,
-    "timeWeek": 905,
-    "timeMonth": 457,
-    "timeYear": 397
+    "time": 392,
+    "timeDay": 180,
+    "timeWeek": 892,
+    "timeMonth": 446,
+    "timeYear": 392,
+    "dailyMinutesDown": {
+      "2020-11-24": 4,
+      "2020-11-23": 4,
+      "2020-11-19": 6
+    }
   }
 ]
