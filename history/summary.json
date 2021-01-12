@@ -26,17 +26,19 @@
     "url": "https://backend.cleverclipstudios.com/wp-admin/",
     "icon": "https://favicons.githubusercontent.com/backend.cleverclipstudios.com",
     "slug": "cleverclip-wordpress",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 2289,
     "timeDay": 2289,
     "timeWeek": 2289,
     "timeMonth": 2289,
     "timeYear": 2289,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-12": 0
+    }
   }
 ]
