@@ -6,6 +6,8 @@ repo: status # Your Github repository name
 sites:
   - name: Cleverclip
     url: https://cleverclipstudios.com
+  - name: Cleverclip Wordpress
+    url: https://backend.cleverclipstudios.com/wp-admin/
 
 status-website:
   baseUrl: /status
