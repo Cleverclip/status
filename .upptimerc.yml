@@ -8,6 +8,8 @@ sites:
     url: https://cleverclipstudios.com
   - name: Cleverclip Wordpress
     url: https://backend.cleverclipstudios.com/wp-admin/
+  - name: TEST
+    url: http://sgsadsaasd.hu/
 
 status-website:
   baseUrl: /status
