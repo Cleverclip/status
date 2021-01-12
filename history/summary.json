@@ -10,15 +10,33 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 436,
-    "timeDay": 721,
-    "timeWeek": 622,
-    "timeMonth": 510,
-    "timeYear": 436,
+    "time": 440,
+    "timeDay": 758,
+    "timeWeek": 644,
+    "timeMonth": 519,
+    "timeYear": 440,
     "dailyMinutesDown": {
       "2020-11-24": 4,
       "2020-11-23": 4,
       "2020-11-19": 6
     }
+  },
+  {
+    "name": "Cleverclip Wordpress",
+    "url": "https://backend.cleverclipstudios.com/wp-admin/",
+    "icon": "https://favicons.githubusercontent.com/backend.cleverclipstudios.com",
+    "slug": "cleverclip-wordpress",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1163,
+    "timeDay": 1163,
+    "timeWeek": 1163,
+    "timeMonth": 1163,
+    "timeYear": 1163,
+    "dailyMinutesDown": {}
   }
 ]
