@@ -7,7 +7,7 @@ sites:
   - name: Cleverclip
     url: https://cleverclipstudios.com
   - name: Cleverclip Wordpress
-    url: https://backend.cleverclipstudios.com/wp-admin/
+    url: https://backend.cleverclipstudios.com/
 
 status-website:
   baseUrl: /status
