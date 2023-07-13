@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/cleverclipstudios.com.ico",
     "slug": "cleverclip",
     "status": "up",
-    "uptime": "99.34%",
+    "uptime": "99.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "98.29%",
-    "time": 443,
-    "timeDay": 825,
-    "timeWeek": 370,
-    "timeMonth": 441,
-    "timeYear": 500,
+    "time": 444,
+    "timeDay": 711,
+    "timeWeek": 430,
+    "timeMonth": 452,
+    "timeYear": 501,
     "dailyMinutesDown": {
       "2023-06-28": 113,
       "2023-06-09": 446,
@@ -31,8 +31,7 @@
       "2022-09-30": 561,
       "2022-09-29": 533,
       "2022-08-31": 20,
-      "2022-07-14": 871,
-      "2022-07-13": 557
+      "2022-07-14": 871
     }
   },
   {
@@ -46,11 +45,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1405,
-    "timeDay": 2296,
-    "timeWeek": 1517,
-    "timeMonth": 1522,
-    "timeYear": 1478,
+    "time": 1407,
+    "timeDay": 2022,
+    "timeWeek": 1628,
+    "timeMonth": 1552,
+    "timeYear": 1481,
     "dailyMinutesDown": {
       "2023-01-25": 17,
       "2022-08-24": 18
