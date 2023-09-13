@@ -39,18 +39,19 @@
     "url": "https://backend.cleverclipstudios.com/",
     "icon": "https://icons.duckduckgo.com/ip3/backend.cleverclipstudios.com.ico",
     "slug": "cleverclip-wordpress",
-    "status": "up",
+    "status": "down",
     "uptime": "99.06%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1433,
-    "timeDay": 1271,
-    "timeWeek": 1378,
-    "timeMonth": 1206,
-    "timeYear": 1482,
+    "time": 1430,
+    "timeDay": 937,
+    "timeWeek": 1281,
+    "timeMonth": 1195,
+    "timeYear": 1479,
     "dailyMinutesDown": {
+      "2023-09-13": 0,
       "2023-01-25": 17
     }
   }
