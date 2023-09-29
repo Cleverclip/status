@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.37%",
     "time": 450,
-    "timeDay": 114,
-    "timeWeek": 288,
-    "timeMonth": 481,
+    "timeDay": 96,
+    "timeWeek": 156,
+    "timeMonth": 467,
     "timeYear": 528,
     "dailyMinutesDown": {
       "2023-08-23": 367,
@@ -30,8 +30,7 @@
       "2022-12-13": 18,
       "2022-12-08": 16,
       "2022-10-27": 22,
-      "2022-09-30": 561,
-      "2022-09-29": 533
+      "2022-09-30": 561
     }
   },
   {
@@ -41,15 +40,15 @@
     "slug": "cleverclip-wordpress",
     "status": "up",
     "uptime": "97.57%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.00%",
+    "uptimeDay": "37.02%",
+    "uptimeWeek": "5.29%",
     "uptimeMonth": "51.19%",
     "uptimeYear": "95.93%",
     "time": 1406,
-    "timeDay": 727,
-    "timeWeek": 650,
-    "timeMonth": 919,
-    "timeYear": 1432,
+    "timeDay": 1048,
+    "timeWeek": 712,
+    "timeMonth": 916,
+    "timeYear": 1431,
     "dailyMinutesDown": {
       "2023-09-28": 969,
       "2023-09-27": 1440,
