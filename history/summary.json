@@ -4,7 +4,7 @@
     "url": "https://cleverclipstudios.com",
     "icon": "https://icons.duckduckgo.com/ip3/cleverclipstudios.com.ico",
     "slug": "cleverclip",
-    "status": "up",
+    "status": "down",
     "uptime": "99.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 685,
     "timeYear": 454,
     "dailyMinutesDown": {
+      "2024-03-16": 0,
       "2023-11-05": 1121,
       "2023-11-04": 1440,
       "2023-11-03": 700,
